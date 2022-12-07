@@ -1,0 +1,83 @@
+/* COGS3 studyBuddy specific styles go here. */
+
+/* Navigation Bar */
+.navbar-brand {
+    font-family: 'Zen Dots', cursive;
+    font-size: 2.5rem;
+}
+.navbar {
+    padding-bottom: 2rem;
+}
+.nav-link {
+    font-family: 'Secular One', sans-serif;
+}
+
+#title {
+    background-color: #6D9886;
+    padding-bottom: 1%;
+}
+h1 {
+    font-family: 'Zen Dots', cursive;
+    font-weight: bold;
+    font-size: 3rem;
+    line-height: 1.5;
+    color: #0E5E6F;
+    text-align: center;
+}
+h2 {
+    font-family: 'Zen Dots', cursive;
+    font-size: 2.5rem;
+    color: #372948;
+}
+h3 {
+    font-family: 'Secular One', sans-serif;
+    font-size: 2.5rem;
+    text-align: center;
+    color: #182747;
+}
+p {
+    font-family: 'Kanit', sans-serif;
+    font-size: 1.5rem;
+    padding: 0% 2%;
+    text-align: center;
+    color: #4C6793;
+    font-weight: bold;
+}
+.container-fluid {
+    padding: 5% 7%;
+} 
+
+#projects {
+    text-align: center;
+    background-color: #557153;
+    padding-bottom: 2%;
+}
+.proj-col {
+    padding: 1% 1%;
+}
+
+#about {
+    background-color: #557153;
+    padding: 1%;
+}
+.container {
+    background-color: #90A17D;
+}
+#resume {
+    background-color: #557153;
+    text-align: center;
+    padding-bottom: 2%;
+}
+
+#contact {
+    background-color: darkseagreen;
+    text-align: center;
+}
+.social-icon {
+    margin: 20px 10px;
+    display: inline-block;
+    text-align: center;
+}
+.copyright {
+    font-size: 0.75rem;
+}

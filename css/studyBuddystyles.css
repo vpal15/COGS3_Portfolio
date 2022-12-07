@@ -1,0 +1,129 @@
+/* COGS3 studyBuddy specific styles go here. */
+#title {
+    background-color: #3F4E4F;
+}
+h1 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: 3rem;
+    line-height: 1.5;
+    color: #2B3A55;
+}
+.container-fluid {
+    padding: 5% 7%;
+}
+/* Navigation Bar */
+.navbar-brand {
+    font-family:'Roboto', sans-serif;
+    font-size: 2.5rem;
+}
+.navbar {
+    padding-bottom: 4.5rem;
+}
+.nav-item {
+    padding: 3% 6%;
+}
+/* Download Buttons */
+.download-button {
+    margin: 5% 2% 5% 2%;
+}
+/* Title Image */
+.phone-pic {
+    width: 100px;
+}
+/* Features */
+#features {
+    background-color: #628E90;
+    padding: 2% 5%;
+}
+.fa-2x {
+    color: #3F4E4F;
+    margin-bottom: 3%;
+}
+.fa-2x:hover {
+    color: #A27B5C;
+}
+h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: #B01E68;
+}
+/* Testimonials */
+#testimonials {
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #7D9D9C;
+}
+.testimonial-image {
+    width: 10%;
+    border-radius: 50%;
+    margin: 10px;
+}
+.carousel-item {
+    padding: 7% 15%;
+}
+.press-logo {
+    text-align: center;
+    width: 150px;
+    margin: 20px;
+}
+p {
+    color: #F49D1A;
+}
+/* Press */
+#press {
+    background-color: #7D9D9C;
+    text-align: center;
+}
+/* Buttons */
+.btn {
+    text-align: center;
+    display: inline-block;
+}
+/* Pricing */
+h2 {
+    color: #282A3A;
+}
+#pricing {
+    padding: 100px;
+    background-color: #1D5C63;
+}
+.pricing-header {
+    color: #3F4E4F;
+}
+.pricing-column {
+    padding: 3% 2%;
+    text-align: center;
+}
+@media (max-width: 1028px) {
+    #title {
+        text-align: center;
+    }
+    .title-image {
+        position: static;
+        transform: rotate(0);
+    }
+}
+/* Call To Action */
+#cta {
+    background-color: #1A3C40;
+    color: #361500;
+    padding: 7% 15%;
+    text-align: center;
+}
+.cta-heading {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+/* Footer */
+#footer {
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #74959A;
+}
+.social-icon {
+    margin: 20px 10px;
+}
+
